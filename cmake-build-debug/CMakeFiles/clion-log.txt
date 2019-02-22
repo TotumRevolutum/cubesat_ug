@@ -1,0 +1,16 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/violetta/projects/cubesat_ug
+CMake Error at CMakeLists.txt:43 (INCLUDE):
+  INCLUDE could not find load file:
+
+    generic-gcc-avr.cmake
+
+
+CMake Error at CMakeLists.txt:61 (add_avr_executable):
+  Unknown CMake command "add_avr_executable".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/violetta/projects/cubesat_ug/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+
+Cannot get compiler information:
+	Cannot run program "/opt/local/bin/avr-gcc" (in directory "/Users/violetta/projects/cubesat_ug/cmake-build-debug"): error=2, No such file or directory

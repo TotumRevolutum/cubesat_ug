@@ -1,0 +1,3 @@
+/Users/violetta/projects/cubesat_ug/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/violetta/projects/cubesat_ug/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/violetta/projects/cubesat_ug/cmake-build-debug/CMakeFiles/AVR.dir

@@ -1,0 +1,1 @@
+/opt/local/bin/avr-gcc -Os -mmcu=atmega328p -DF_CPU=16000000UL -std=gnu99 -Wl,--gc-sections -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/AVR.dir/main.c.o  -o ../bin/AVR.elf 
