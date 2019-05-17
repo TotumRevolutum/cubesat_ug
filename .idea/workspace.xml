@@ -12,9 +12,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ca2c75c-05b7-45c2-881e-a59fdea4bc36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usart_gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/25/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/25/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/61/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/a1/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/fb/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/c5/25/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/c5/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/c5/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_press/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_press/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/25/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/25/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/61/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/a1/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/fb/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.settings/de.innot.avreclipse.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat_termo.eep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat_termo.elf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat_termo.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat_termo.lss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat_termo.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/1wire_h/crc8.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/1wire_h/crc8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/1wire_h/onewire.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/1wire_h/onewire.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/1wire_h/subdir.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/com_io.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/console_io/subdir.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/ds18_h/ds18x20.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/ds18_h/ds18x20.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/ds18_h/subdir.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/subdir.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/uart.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/uart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/objects.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/sources.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/1wire_h/crc8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/1wire_h/crc8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/1wire_h/onewire.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/1wire_h/onewire.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/ds18_h/ds18x20.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/ds18_h/ds18x20.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/uart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/uart.h" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +87,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -35,13 +98,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="439" column="37" lean-forward="true" selection-start-line="439" selection-start-column="37" selection-end-line="439" selection-end-column="37" />
+            <state relative-caret-position="6585">
+              <caret line="439" column="37" selection-start-line="439" selection-start-column="37" selection-end-line="439" selection-end-column="37" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usart_gui.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -59,6 +127,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CMakeLists.txt" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -70,6 +139,7 @@
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+        <option value="$PROJECT_DIR$/usart_gui.py" />
       </list>
     </option>
   </component>
@@ -83,28 +153,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="avr_project_template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cubesat_ug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avr_project_template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cubesat_ug" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avr_project_template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cubesat_ug" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
-              <item name="CMakeFiles" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,18 +194,22 @@
       <updated>1549032018930</updated>
       <workItem from="1549032020217" duration="334000" />
       <workItem from="1549225049835" duration="6000" />
+      <workItem from="1558102644568" duration="360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="340000" />
+    <option name="totallyTimeSpent" value="700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -169,6 +222,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.32891566" />
+      <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -195,10 +249,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="439" column="37" lean-forward="true" selection-start-line="439" selection-start-column="37" selection-end-line="439" selection-end-column="37" />
+        <state relative-caret-position="6585">
+          <caret line="439" column="37" selection-start-line="439" selection-start-column="37" selection-end-line="439" selection-end-column="37" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usart_gui.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
