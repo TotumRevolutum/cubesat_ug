@@ -31,10 +31,10 @@ uint8_t USART_Receive( void )
 
 void USART_SendByteArray(uint8_t *data, uint8_t len)
 {
-    int i;
+    int j;
 
     if (len == -1) len = strlen((char *)data);
-	for (i=0; i<len; i++) USART_SendByte(data[i]);
+	for (j=0; j<len; j++) USART_SendByte(data[j]);
 	while(!(UCSR0A&(1<<TXC0)));
 }
 
