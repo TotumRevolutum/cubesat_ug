@@ -1,0 +1,629 @@
+Archive member included because of file (symbol)
+
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                              ./Source/uart.o (__udivmodsi4)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                              c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o (exit)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                              ./Source/main.o (__do_copy_data)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+                              c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                              c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                              c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (strnlen)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(fputc.o)
+                              c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (fputc)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(iob.o)
+                              ./Source/main.o (__iob)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(printf.o)
+                              ./Source/main.o (printf)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(puts.o)
+                              ./Source/main.o (puts)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                              c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                              c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(iob.o) (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+__iob               0x6               c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(iob.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x0000ff00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+LOAD c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a
+LOAD c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+LOAD ./Source/sd/sdcard_api.o
+LOAD ./Source/sd/sdcard_spi.o
+LOAD ./Source/sd/soft_spi.o
+LOAD ./Source/sd/uart_text_io.o
+LOAD ./Source/main.o
+LOAD ./Source/uart.o
+START GROUP
+LOAD c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a
+LOAD c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+LOAD c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1174
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000008c                . = ALIGN (0x2)
+                0x0000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008c                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data  0x0000008c        0x8 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .progmem.data  0x00000094       0xfa c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+                0x0000018e                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000018e                __ctors_start = .
+ *(.ctors)
+                0x0000018e                __ctors_end = .
+                0x0000018e                __dtors_start = .
+ *(.dtors)
+                0x0000018e                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000018e        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+                0x0000018e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000018e        0xc c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000019a       0x1a c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                0x0000019a                __do_copy_data
+ .init4         0x000001b4       0x10 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                0x000001b4                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000001c4        0x8 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ *(.init9)
+ *(.text)
+ .text          0x000001cc        0x4 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+                0x000001cc                __vector_22
+                0x000001cc                __vector_28
+                0x000001cc                __vector_1
+                0x000001cc                __vector_32
+                0x000001cc                __vector_34
+                0x000001cc                __vector_24
+                0x000001cc                __vector_12
+                0x000001cc                __bad_interrupt
+                0x000001cc                __vector_6
+                0x000001cc                __vector_31
+                0x000001cc                __vector_3
+                0x000001cc                __vector_23
+                0x000001cc                __vector_30
+                0x000001cc                __vector_25
+                0x000001cc                __vector_11
+                0x000001cc                __vector_13
+                0x000001cc                __vector_17
+                0x000001cc                __vector_19
+                0x000001cc                __vector_7
+                0x000001cc                __vector_27
+                0x000001cc                __vector_5
+                0x000001cc                __vector_33
+                0x000001cc                __vector_4
+                0x000001cc                __vector_9
+                0x000001cc                __vector_2
+                0x000001cc                __vector_21
+                0x000001cc                __vector_15
+                0x000001cc                __vector_29
+                0x000001cc                __vector_8
+                0x000001cc                __vector_26
+                0x000001cc                __vector_14
+                0x000001cc                __vector_10
+                0x000001cc                __vector_16
+                0x000001cc                __vector_18
+                0x000001cc                __vector_20
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .text          0x000001d0        0x0 ./Source/sd/sdcard_api.o
+ .text          0x000001d0        0x0 ./Source/sd/sdcard_spi.o
+ .text          0x000001d0        0x0 ./Source/sd/soft_spi.o
+ .text          0x000001d0        0x0 ./Source/sd/uart_text_io.o
+ .text          0x000001d0        0x0 ./Source/main.o
+ .text          0x000001d0        0x0 ./Source/uart.o
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(iob.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(printf.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(puts.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .text          0x000001d0        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                0x000001d0                . = ALIGN (0x2)
+ *(.text.*)
+ .text.avr-libc
+                0x000001d0      0x748 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+                0x000001d0                vfprintf
+ .text.SendCommandFrame
+                0x00000918       0x4c ./Source/sd/sdcard_api.o
+                0x00000918                SendCommandFrame
+ .text.ReceiveR1
+                0x00000964       0x16 ./Source/sd/sdcard_api.o
+                0x00000964                ReceiveR1
+ .text.SDCARD_Init
+                0x0000097a       0x7a ./Source/sd/sdcard_api.o
+                0x0000097a                SDCARD_Init
+ .text.SDCARD_ReadBlock
+                0x000009f4       0x5a ./Source/sd/sdcard_api.o
+                0x000009f4                SDCARD_ReadBlock
+ .text.SDCARD_WriteBlock
+                0x00000a4e       0xc6 ./Source/sd/sdcard_api.o
+                0x00000a4e                SDCARD_WriteBlock
+ .text.SWSPI_Init
+                0x00000b14       0x12 ./Source/sd/soft_spi.o
+                0x00000b14                SWSPI_Init
+ .text.SWSPI_ByteRxTx
+                0x00000b26       0x46 ./Source/sd/soft_spi.o
+                0x00000b26                SWSPI_ByteRxTx
+ .text.SWSPI_BufferRxTx
+                0x00000b6c       0x3c ./Source/sd/soft_spi.o
+                0x00000b6c                SWSPI_BufferRxTx
+ .text.TIO_Init
+                0x00000ba8        0x6 ./Source/sd/uart_text_io.o
+                0x00000ba8                TIO_Init
+ .text.TIO_CharInput
+                0x00000bae        0x8 ./Source/sd/uart_text_io.o
+                0x00000bae                TIO_CharInput
+ .text.TIO_CharOutput
+                0x00000bb6        0x8 ./Source/sd/uart_text_io.o
+                0x00000bb6                TIO_CharOutput
+ .text.TIO_TextOutput
+                0x00000bbe       0x26 ./Source/sd/uart_text_io.o
+                0x00000bbe                TIO_TextOutput
+ .text.TIO_TextInput
+                0x00000be4       0x74 ./Source/sd/uart_text_io.o
+                0x00000be4                TIO_TextInput
+ .text.TIO_PrintPgmMsg
+                0x00000c58       0x1c ./Source/sd/uart_text_io.o
+                0x00000c58                TIO_PrintPgmMsg
+ .text.USART_PutChar
+                0x00000c74       0x1a ./Source/main.o
+ .text.startup.main
+                0x00000c8e       0xb2 ./Source/main.o
+                0x00000c8e                main
+ .text.USART_Init
+                0x00000d40       0x28 ./Source/uart.o
+                0x00000d40                USART_Init
+ .text.USART_SendByte
+                0x00000d68        0x8 ./Source/uart.o
+                0x00000d68                USART_SendByte
+ .text.USART_Receive
+                0x00000d70        0x8 ./Source/uart.o
+                0x00000d70                USART_Receive
+ .text.USART_SendByteArray
+                0x00000d78       0x3a ./Source/uart.o
+                0x00000d78                USART_SendByteArray
+ .text.libgcc.mul
+                0x00000db2        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000db2       0x44 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                0x00000db2                __udivmodsi4
+ .text.libgcc   0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000df6        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.avr-libc
+                0x00000df6      0x1b0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+                0x00000df6                __ftoa_engine
+ .text.avr-libc
+                0x00000fa6       0x16 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                0x00000fa6                strnlen_P
+ .text.avr-libc
+                0x00000fbc       0x16 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                0x00000fbc                strnlen
+ .text.avr-libc
+                0x00000fd2       0x64 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(fputc.o)
+                0x00000fd2                fputc
+ .text.avr-libc
+                0x00001036       0x24 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(printf.o)
+                0x00001036                printf
+ .text.avr-libc
+                0x0000105a       0x5a c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(puts.o)
+                0x0000105a                puts
+ .text.avr-libc
+                0x000010b4       0xbc c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x000010b4                __ultoa_invert
+ .text.libgcc.mul
+                0x00001170        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00001170        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00001170        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00001170        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00001170        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00001170        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00001170        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                0x00001170                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001170        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                0x00001170                _exit
+                0x00001170                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001170        0x4 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001174                _etext = .
+
+.data           0x00800100      0x168 load address 0x00001174
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .data          0x00800100        0x0 ./Source/sd/sdcard_api.o
+ .data          0x00800100        0x0 ./Source/sd/sdcard_spi.o
+ .data          0x00800100        0x0 ./Source/sd/soft_spi.o
+ .data          0x00800100        0x0 ./Source/sd/uart_text_io.o
+ .data          0x00800100        0x0 ./Source/main.o
+ .data          0x00800100        0x0 ./Source/uart.o
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(iob.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(printf.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(puts.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .data          0x00800100        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ *(.data*)
+ .data.mystdout
+                0x00800100        0xe ./Source/main.o
+ .data.sdcard_wr_block_buffer
+                0x0080010e       0x80 ./Source/main.o
+                0x0080010e                sdcard_wr_block_buffer
+ .data.sdcard_block_buffer
+                0x0080018e       0x80 ./Source/main.o
+                0x0080018e                sdcard_block_buffer
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080020e       0x59 ./Source/main.o
+ *(.gnu.linkonce.d*)
+                0x00800268                . = ALIGN (0x2)
+ *fill*         0x00800267        0x1 
+                0x00800268                _edata = .
+                0x00800268                PROVIDE (__data_end, .)
+
+.bss            0x00800268        0x6
+                0x00800268                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x00800268        0x0 ./Source/sd/sdcard_api.o
+ .bss           0x00800268        0x0 ./Source/sd/sdcard_spi.o
+ .bss           0x00800268        0x0 ./Source/sd/soft_spi.o
+ .bss           0x00800268        0x0 ./Source/sd/uart_text_io.o
+ .bss           0x00800268        0x0 ./Source/main.o
+ .bss           0x00800268        0x0 ./Source/uart.o
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(iob.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(printf.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(puts.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .bss           0x00800268        0x0 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800268        0x6 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(iob.o)
+                0x00800268                __iob
+                0x0080026e                PROVIDE (__bss_end, .)
+                0x00001174                __data_load_start = LOADADDR (.data)
+                0x000012dc                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080026e        0x0
+                0x0080026e                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080026e                PROVIDE (__noinit_end, .)
+                0x0080026e                _end = .
+                0x0080026e                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x2c c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000002c       0x30 ./Source/sd/sdcard_api.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 ./Source/sd/sdcard_spi.o
+ .comment       0x00000000       0x31 ./Source/sd/soft_spi.o
+ .comment       0x00000000       0x31 ./Source/sd/uart_text_io.o
+ .comment       0x00000000       0x31 ./Source/main.o
+ .comment       0x00000000       0x31 ./Source/uart.o
+ .comment       0x00000000       0x31 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .comment       0x00000000       0x31 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(iob.o)
+ .comment       0x00000000       0x31 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(printf.o)
+ .comment       0x00000000       0x31 c:/user files-main/eclipse/avr8-gnu-toolchain/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(puts.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(CubeSat_sd.elf elf32-avr)
+LOAD linker stubs
