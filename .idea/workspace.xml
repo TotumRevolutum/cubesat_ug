@@ -22,17 +22,7 @@
     <SUITE FILE_PATH="coverage/avr_project_template$usart_gui.coverage" NAME="usart_gui Coverage Results" MODIFIED="1558108005251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Source/uart.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +45,7 @@
         <option value="$PROJECT_DIR$/ans.py" />
         <option value="$PROJECT_DIR$/qqq.txt" />
         <option value="$PROJECT_DIR$/gui.py" />
+        <option value="$PROJECT_DIR$/Source/uart.c" />
       </list>
     </option>
   </component>
@@ -73,11 +64,6 @@
             <path>
               <item name="cubesat_ug" type="b2602c69:ProjectViewProjectNode" />
               <item name="cubesat_ug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cubesat_ug" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cubesat_ug" type="462c0819:PsiDirectoryNode" />
-              <item name="Source" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,7 +164,7 @@
       <workItem from="1559040351993" duration="815000" />
       <workItem from="1559468171553" duration="312000" />
       <workItem from="1559816345396" duration="111000" />
-      <workItem from="1559816570213" duration="284000" />
+      <workItem from="1559816570213" duration="516000" />
     </task>
     <task id="LOCAL-00001" summary="+gui">
       <created>1558103377519</created>
@@ -208,15 +194,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559816840921</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="alfa 2.1">
+      <created>1559816895688</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559816895688</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6070000" />
+    <option name="totallyTimeSpent" value="6302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -249,7 +241,8 @@
     <MESSAGE value="+gui" />
     <MESSAGE value="alfa" />
     <MESSAGE value="alfa 2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="alfa 2.0" />
+    <MESSAGE value="alfa 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="alfa 2.1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/USART_data.txt" />
@@ -287,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/uart.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
+        <state relative-caret-position="246">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
         </state>
       </provider>
     </entry>
