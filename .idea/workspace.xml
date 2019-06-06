@@ -12,73 +12,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ca2c75c-05b7-45c2-881e-a59fdea4bc36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/usart_gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/af/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/25/af/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/25/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/61/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/a1/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/fb/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/c5/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.markers.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_acceler/.syncinfo.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/af/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/c5/25/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/c5/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/c5/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_press/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_press/.markers.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_press/.syncinfo.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.cproject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/25/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/25/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/61/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/a1/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/fb/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/c5/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.markers.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.settings/de.innot.avreclipse.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/.syncinfo.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat_termo.eep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat_termo.elf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat_termo.hex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat_termo.lss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/CubeSat_termo.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/1wire_h/crc8.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/1wire_h/crc8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/1wire_h/onewire.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/1wire_h/onewire.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/1wire_h/subdir.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/com_io.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/console_io/subdir.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/ds18_h/ds18x20.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/ds18_h/ds18x20.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/ds18_h/subdir.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/main.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/subdir.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/uart.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/Source/uart.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/objects.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Release/sources.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/1wire_h/crc8.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/1wire_h/crc8.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/1wire_h/onewire.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/1wire_h/onewire.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/ds18_h/ds18x20.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/ds18_h/ds18x20.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/uart.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CubeSat_termo/Source/uart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/AVR.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AVR.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AVR.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AVR.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AVR.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AVR.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AVR.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AVR.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usart_gui.py" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,41 +59,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/avr_project_template$gui.coverage" NAME="gui Coverage Results" MODIFIED="1559041113675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/avr_project_template$usart_gui.coverage" NAME="usart_gui Coverage Results" MODIFIED="1558108005251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6585">
-              <caret line="439" column="37" selection-start-line="439" selection-start-column="37" selection-end-line="439" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/usart_gui.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -139,7 +82,11 @@
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+        <option value="$PROJECT_DIR$/USART_data.txt" />
         <option value="$PROJECT_DIR$/usart_gui.py" />
+        <option value="$PROJECT_DIR$/ans.py" />
+        <option value="$PROJECT_DIR$/qqq.txt" />
+        <option value="$PROJECT_DIR$/gui.py" />
       </list>
     </option>
   </component>
@@ -161,7 +108,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -175,12 +122,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="AVR" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="avr_project_template" TARGET_NAME="AVR" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="avr_project_template" RUN_TARGET_NAME="AVR">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Python.gui">
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cubesat_ug" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
+    <configuration name="usart_gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cubesat_ug" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/usart_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.gui" />
+      <item itemvalue="Python.usart_gui" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gui" />
+        <item itemvalue="Python.usart_gui" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -194,25 +190,41 @@
       <updated>1549032018930</updated>
       <workItem from="1549032020217" duration="334000" />
       <workItem from="1549225049835" duration="6000" />
-      <workItem from="1558102644568" duration="360000" />
+      <workItem from="1558102644568" duration="3862000" />
+      <workItem from="1558538166375" duration="346000" />
+      <workItem from="1559040351993" duration="815000" />
+      <workItem from="1559468171553" duration="312000" />
+      <workItem from="1559816345396" duration="111000" />
     </task>
+    <task id="LOCAL-00001" summary="+gui">
+      <created>1558103377519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558103377519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="+gui">
+      <created>1558103540414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558103540414</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="700000" />
+    <option name="totallyTimeSpent" value="5786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3192771" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,17 +234,64 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.32891566" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+gui" />
+    <option name="LAST_COMMIT_MESSAGE" value="+gui" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/USART_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ans.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usart_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qqq.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3855">
+          <caret column="257093" selection-start-column="257093" selection-end-column="257093" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
@@ -240,22 +299,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6585">
-          <caret line="439" column="37" selection-start-line="439" selection-start-column="37" selection-end-line="439" selection-end-column="37" />
+        <state relative-caret-position="5895">
+          <caret line="393" column="33" selection-start-line="392" selection-start-column="33" selection-end-line="393" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usart_gui.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/Downloads/hterm_out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret column="3145" selection-end-column="257093" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
