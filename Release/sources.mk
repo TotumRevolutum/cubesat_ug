@@ -23,5 +23,6 @@ C_DEPS :=
 SUBDIRS := \
 Source/1wire_h \
 Source \
+Source/MQ2 \
 Source/ds18_h \
 

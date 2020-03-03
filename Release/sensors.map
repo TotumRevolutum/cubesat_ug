@@ -1,0 +1,930 @@
+Archive member included because of file (symbol)
+
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exit.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o (exit)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (strnlen)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (fputc)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+                              ./Source/main.o (__iob)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o)
+                              ./Source/main.o (printf)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+                              ./Source/main.o (puts)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3.o)
+                              ./Source/bmp280_i2c.o (__subsf3)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3.o) (__addsf3x)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cmpsf2.o)
+                              ./Source/bmp280_i2c.o (__eqsf2)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3.o)
+                              ./Source/bmp280_i2c.o (__divsf3)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3x.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3.o) (__divsf3x)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(floatsisf.o)
+                              ./Source/bmp280_i2c.o (__floatunsisf)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_cmp.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cmpsf2.o) (__fp_cmp)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_inf.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o) (__fp_inf)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_nan.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o) (__fp_nan)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscA.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o) (__fp_pscA)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscB.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o) (__fp_pscB)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_round.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3.o) (__fp_round)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_split3.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o) (__fp_split3)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_zero.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o) (__fp_zero)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3.o)
+                              ./Source/adxl345_i2c.o (__mulsf3)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3x.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3.o) (__mulsf3x)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(pow.o)
+                              ./Source/bmp280_i2c.o (pow)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exp.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(pow.o) (exp)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exp.o) (__fp_powser)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(inverse.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exp.o) (inverse)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ldexp.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exp.o) (ldexp)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(log.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(pow.o) (log)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(modf.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exp.o) (modf)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_mpack.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ldexp.o) (__fp_mpack)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+                              ./Source/ds18_h/ds18x20.o (__mulsi3)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+                              ./Source/ds18_h/ds18x20.o (__divmodhi4)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+                              ./Source/bmp280_i2c.o (__udivmodsi4)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exit.o) (_exit)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                              ./Source/adxl345_i2c.o (__do_clear_bss)
+c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                              c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+dig_P7              0x2               ./Source/bmp280_i2c.o
+dig_T1              0x2               ./Source/bmp280_i2c.o
+ADXL345_dev_addr    0x1               ./Source/adxl345_i2c.o
+dig_T2              0x2               ./Source/bmp280_i2c.o
+dig_P2              0x2               ./Source/bmp280_i2c.o
+dig_P4              0x2               ./Source/bmp280_i2c.o
+BMP280_dev_addr     0x1               ./Source/bmp280_i2c.o
+dig_P5              0x2               ./Source/bmp280_i2c.o
+dig_P1              0x2               ./Source/bmp280_i2c.o
+dig_P3              0x2               ./Source/bmp280_i2c.o
+dig_P8              0x2               ./Source/bmp280_i2c.o
+gSensorIDs          0x8               ./Source/main.o
+dig_P9              0x2               ./Source/bmp280_i2c.o
+dig_T3              0x2               ./Source/bmp280_i2c.o
+dig_P6              0x2               ./Source/bmp280_i2c.o
+__iob               0x6               c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+t_fine              0x4               ./Source/bmp280_i2c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+LOAD c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a
+LOAD c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a
+LOAD ./Source/ds18_h/ds18x20.o
+LOAD ./Source/1wire_h/crc8.o
+LOAD ./Source/1wire_h/onewire.o
+LOAD ./Source/adxl345_i2c.o
+LOAD ./Source/bmp280_i2c.o
+LOAD ./Source/i2c_avr.o
+LOAD ./Source/main.o
+LOAD ./Source/uart.o
+LOAD c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+LOAD c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2fd4
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x0000008c       0x28 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exp.o)
+ .progmem.gcc_fplib
+                0x000000b4       0x5a c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(log.o)
+ *(.progmem*)
+ .progmem.data  0x0000010e        0x8 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .progmem.data  0x00000116       0xfa c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+                0x00000210                . = ALIGN (0x2)
+                0x00000210                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000210        0x0 linker stubs
+ *(.trampolines*)
+                0x00000210                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000210                __ctors_start = .
+ *(.ctors)
+                0x00000210                __ctors_end = .
+                0x00000210                __dtors_start = .
+ *(.dtors)
+                0x00000210                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000210        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000210                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000210        0xc c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000021c       0x1a c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x0000021c                __do_copy_data
+ .init4         0x00000236       0x10 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x00000236                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000246        0x8 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init9)
+ *(.text)
+ .text          0x0000024e        0x4 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x0000024e                __vector_22
+                0x0000024e                __vector_28
+                0x0000024e                __vector_1
+                0x0000024e                __vector_32
+                0x0000024e                __vector_34
+                0x0000024e                __vector_24
+                0x0000024e                __bad_interrupt
+                0x0000024e                __vector_6
+                0x0000024e                __vector_31
+                0x0000024e                __vector_3
+                0x0000024e                __vector_23
+                0x0000024e                __vector_30
+                0x0000024e                __vector_25
+                0x0000024e                __vector_11
+                0x0000024e                __vector_13
+                0x0000024e                __vector_17
+                0x0000024e                __vector_19
+                0x0000024e                __vector_7
+                0x0000024e                __vector_27
+                0x0000024e                __vector_5
+                0x0000024e                __vector_33
+                0x0000024e                __vector_4
+                0x0000024e                __vector_9
+                0x0000024e                __vector_2
+                0x0000024e                __vector_21
+                0x0000024e                __vector_15
+                0x0000024e                __vector_29
+                0x0000024e                __vector_8
+                0x0000024e                __vector_26
+                0x0000024e                __vector_14
+                0x0000024e                __vector_10
+                0x0000024e                __vector_16
+                0x0000024e                __vector_18
+                0x0000024e                __vector_20
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .text          0x00000252        0x0 ./Source/ds18_h/ds18x20.o
+ .text          0x00000252        0x0 ./Source/1wire_h/crc8.o
+ .text          0x00000252        0x0 ./Source/1wire_h/onewire.o
+ .text          0x00000252        0x0 ./Source/adxl345_i2c.o
+ .text          0x00000252        0x0 ./Source/bmp280_i2c.o
+ .text          0x00000252        0x0 ./Source/i2c_avr.o
+ .text          0x00000252        0x0 ./Source/main.o
+ .text          0x00000252        0x0 ./Source/uart.o
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exit.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cmpsf2.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3x.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(floatsisf.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_cmp.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_inf.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_nan.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscA.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscB.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_round.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_split3.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_zero.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3x.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(pow.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exp.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(inverse.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ldexp.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(log.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(modf.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_mpack.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000252        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                0x00000252                . = ALIGN (0x2)
+ *(.text.*)
+ .text.avr-libc
+                0x00000252      0x760 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+                0x00000252                vfprintf
+ .text.DS18X20_raw_to_decicelsius
+                0x000009b2       0xda ./Source/ds18_h/ds18x20.o
+ .text.DS18X20_write_scratchpad
+                0x00000a8c       0x54 ./Source/ds18_h/ds18x20.o
+                0x00000a8c                DS18X20_write_scratchpad
+ .text.DS18X20_set_resolution
+                0x00000ae0        0xe ./Source/ds18_h/ds18x20.o
+                0x00000ae0                DS18X20_set_resolution
+ .text.read_scratchpad
+                0x00000aee       0x52 ./Source/ds18_h/ds18x20.o
+ .text.DS18X20_read_maxres
+                0x00000b40      0x128 ./Source/ds18_h/ds18x20.o
+                0x00000b40                DS18X20_read_maxres
+ .text.DS18X20_read_decicelsius_single
+                0x00000c68       0x6c ./Source/ds18_h/ds18x20.o
+                0x00000c68                DS18X20_read_decicelsius_single
+ .text.DS18X20_read_decicelsius
+                0x00000cd4       0x74 ./Source/ds18_h/ds18x20.o
+                0x00000cd4                DS18X20_read_decicelsius
+ .text.DS18X20_format_from_decicelsius
+                0x00000d48       0xf0 ./Source/ds18_h/ds18x20.o
+                0x00000d48                DS18X20_format_from_decicelsius
+ .text.DS18X20_conversion_in_progress
+                0x00000e38       0x12 ./Source/ds18_h/ds18x20.o
+                0x00000e38                DS18X20_conversion_in_progress
+ .text.DS18X20_get_power_status
+                0x00000e4a       0x2a ./Source/ds18_h/ds18x20.o
+                0x00000e4a                DS18X20_get_power_status
+ .text.DS18X20_start_meas
+                0x00000e74       0x3a ./Source/ds18_h/ds18x20.o
+                0x00000e74                DS18X20_start_meas
+ .text.DS18X20_find_sensor
+                0x00000eae       0x3e ./Source/ds18_h/ds18x20.o
+                0x00000eae                DS18X20_find_sensor
+ .text.crc8     0x00000eec       0x40 ./Source/1wire_h/crc8.o
+                0x00000eec                crc8
+ .text.ow_input_pin_state
+                0x00000f2c        0x6 ./Source/1wire_h/onewire.o
+                0x00000f2c                ow_input_pin_state
+ .text.ow_parasite_enable
+                0x00000f32        0x6 ./Source/1wire_h/onewire.o
+                0x00000f32                ow_parasite_enable
+ .text.ow_parasite_disable
+                0x00000f38        0x6 ./Source/1wire_h/onewire.o
+                0x00000f38                ow_parasite_disable
+ .text.ow_reset
+                0x00000f3e       0x32 ./Source/1wire_h/onewire.o
+                0x00000f3e                ow_reset
+ .text.ow_bit_io_intern
+                0x00000f70       0x3a ./Source/1wire_h/onewire.o
+ .text.ow_bit_io
+                0x00000faa        0xa ./Source/1wire_h/onewire.o
+                0x00000faa                ow_bit_io
+ .text.ow_byte_wr
+                0x00000fb4       0x22 ./Source/1wire_h/onewire.o
+                0x00000fb4                ow_byte_wr
+ .text.ow_byte_wr_with_parasite_enable
+                0x00000fd6       0x2c ./Source/1wire_h/onewire.o
+                0x00000fd6                ow_byte_wr_with_parasite_enable
+ .text.ow_byte_rd
+                0x00001002        0x8 ./Source/1wire_h/onewire.o
+                0x00001002                ow_byte_rd
+ .text.ow_rom_search
+                0x0000100a       0x98 ./Source/1wire_h/onewire.o
+                0x0000100a                ow_rom_search
+ .text.ow_command_intern
+                0x000010a2       0x50 ./Source/1wire_h/onewire.o
+ .text.ow_command
+                0x000010f2        0x8 ./Source/1wire_h/onewire.o
+                0x000010f2                ow_command
+ .text.ow_command_with_parasite_enable
+                0x000010fa        0x8 ./Source/1wire_h/onewire.o
+                0x000010fa                ow_command_with_parasite_enable
+ .text.ADXL345_readXYZ_raw
+                0x00001102       0x86 ./Source/adxl345_i2c.o
+                0x00001102                ADXL345_readXYZ_raw
+ .text.ADXL345_readXYZ
+                0x00001188       0xc4 ./Source/adxl345_i2c.o
+                0x00001188                ADXL345_readXYZ
+ .text.ADXL345_searchDevice
+                0x0000124c       0x32 ./Source/adxl345_i2c.o
+                0x0000124c                ADXL345_searchDevice
+ .text.ADXL345_powerOn
+                0x0000127e        0xe ./Source/adxl345_i2c.o
+                0x0000127e                ADXL345_powerOn
+ .text.ADXL345_configuration
+                0x0000128c        0xe ./Source/adxl345_i2c.o
+                0x0000128c                ADXL345_configuration
+ .text.ADXL345_begin
+                0x0000129a       0x34 ./Source/adxl345_i2c.o
+                0x0000129a                ADXL345_begin
+ .text.BMP280_altitude
+                0x000012ce       0x40 ./Source/bmp280_i2c.o
+                0x000012ce                BMP280_altitude
+ .text.BMP280_read24
+                0x0000130e       0x66 ./Source/bmp280_i2c.o
+                0x0000130e                BMP280_read24
+ .text.BMP280_readTemperature
+                0x00001374      0x126 ./Source/bmp280_i2c.o
+                0x00001374                BMP280_readTemperature
+ .text.BMP280_readPressure_float
+                0x0000149a      0x366 ./Source/bmp280_i2c.o
+                0x0000149a                BMP280_readPressure_float
+ .text.BMP280_readPressure
+                0x00001800      0x356 ./Source/bmp280_i2c.o
+                0x00001800                BMP280_readPressure
+ .text.BMP280_read16
+                0x00001b56       0x34 ./Source/bmp280_i2c.o
+                0x00001b56                BMP280_read16
+ .text.BMP280_read16_LE
+                0x00001b8a        0xc ./Source/bmp280_i2c.o
+                0x00001b8a                BMP280_read16_LE
+ .text.BMP280_readS16_LE
+                0x00001b96        0x6 ./Source/bmp280_i2c.o
+                0x00001b96                BMP280_readS16_LE
+ .text.BMP280_readCoefficients
+                0x00001b9c       0xaa ./Source/bmp280_i2c.o
+                0x00001b9c                BMP280_readCoefficients
+ .text.BMP280_read8
+                0x00001c46       0x26 ./Source/bmp280_i2c.o
+                0x00001c46                BMP280_read8
+ .text.BMP280_write8
+                0x00001c6c       0x10 ./Source/bmp280_i2c.o
+                0x00001c6c                BMP280_write8
+ .text.BMP280_receiveData
+                0x00001c7c       0x58 ./Source/bmp280_i2c.o
+                0x00001c7c                BMP280_receiveData
+ .text.BMP280_begin
+                0x00001cd4       0x58 ./Source/bmp280_i2c.o
+                0x00001cd4                BMP280_begin
+ .text.I2CInit  0x00001d2c       0x34 ./Source/i2c_avr.o
+                0x00001d2c                I2CInit
+ .text.I2CClose
+                0x00001d60        0xc ./Source/i2c_avr.o
+                0x00001d60                I2CClose
+ .text.I2CStart
+                0x00001d6c       0x10 ./Source/i2c_avr.o
+                0x00001d6c                I2CStart
+ .text.I2CStop  0x00001d7c       0x10 ./Source/i2c_avr.o
+                0x00001d7c                I2CStop
+ .text.I2CWriteByte
+                0x00001d8c       0x38 ./Source/i2c_avr.o
+                0x00001d8c                I2CWriteByte
+ .text.I2CReadByte
+                0x00001dc4       0x4c ./Source/i2c_avr.o
+                0x00001dc4                I2CReadByte
+ .text.I2CWriteRegister
+                0x00001e10       0x50 ./Source/i2c_avr.o
+                0x00001e10                I2CWriteRegister
+ .text.I2CReadBytes
+                0x00001e60       0x70 ./Source/i2c_avr.o
+                0x00001e60                I2CReadBytes
+ .text.Timer1_Init
+                0x00001ed0       0x18 ./Source/main.o
+                0x00001ed0                Timer1_Init
+ .text.__vector_12
+                0x00001ee8       0x4a ./Source/main.o
+                0x00001ee8                __vector_12
+ .text.print_address
+                0x00001f32       0x8c ./Source/main.o
+                0x00001f32                print_address
+ .text.Sensors_Init
+                0x00001fbe       0x2a ./Source/main.o
+                0x00001fbe                Sensors_Init
+ .text.main     0x00001fe8      0x47a ./Source/main.o
+                0x00001fe8                main
+ .text.USART_Init
+                0x00002462       0x34 ./Source/uart.o
+                0x00002462                USART_Init
+ .text.USART_SendByte
+                0x00002496        0x8 ./Source/uart.o
+                0x00002496                USART_SendByte
+ .text.USART_Receive
+                0x0000249e        0x8 ./Source/uart.o
+                0x0000249e                USART_Receive
+ .text.USART_SendByteArray
+                0x000024a6       0x26 ./Source/uart.o
+                0x000024a6                USART_SendByteArray
+ .text.USART_PutChar
+                0x000024cc       0x1a ./Source/uart.o
+                0x000024cc                USART_PutChar
+ .text.avr-libc
+                0x000024e6        0x6 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exit.o)
+                0x000024e6                exit
+ .text.avr-libc
+                0x000024ec      0x1b0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+                0x000024ec                __ftoa_engine
+ .text.avr-libc
+                0x0000269c       0x16 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                0x0000269c                strnlen_P
+ .text.avr-libc
+                0x000026b2       0x16 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                0x000026b2                strnlen
+ .text.avr-libc
+                0x000026c8       0x58 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+                0x000026c8                fputc
+ .text.avr-libc
+                0x00002720       0x24 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o)
+                0x00002720                printf
+ .text.avr-libc
+                0x00002744       0x6a c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+                0x00002744                puts
+ .text.avr-libc
+                0x000027ae       0xbc c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x000027ae                __ultoa_invert
+ .text.avr-libc.fplib
+                0x0000286a        0xa c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3.o)
+                0x0000286a                __subsf3
+                0x0000286c                __addsf3
+ .text.avr-libc.fplib
+                0x00002874       0xc0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o)
+                0x0000288e                __addsf3x
+ .text.avr-libc.fplib
+                0x00002934        0x8 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cmpsf2.o)
+                0x00002934                __lesf2
+                0x00002934                __nesf2
+                0x00002934                __eqsf2
+                0x00002934                __cmpsf2
+                0x00002934                __ltsf2
+ .text.avr-libc.fplib
+                0x0000293c        0x4 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3.o)
+                0x0000293c                __divsf3
+ .text.avr-libc.fplib
+                0x00002940       0xcc c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3x.o)
+                0x00002956                __divsf3x
+                0x0000295a                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00002a0c       0x7a c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(floatsisf.o)
+                0x00002a10                __floatsisf
+                0x00002a0c                __floatunsisf
+ .text.avr-libc.fplib
+                0x00002a86       0x48 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_cmp.o)
+                0x00002a86                __fp_cmp
+ .text.avr-libc.fplib
+                0x00002ace        0xc c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_inf.o)
+                0x00002ace                __fp_inf
+ .text.avr-libc.fplib
+                0x00002ada        0x6 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_nan.o)
+                0x00002ada                __fp_nan
+ .text.avr-libc.fplib
+                0x00002ae0        0xe c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscA.o)
+                0x00002ae0                __fp_pscA
+ .text.avr-libc.fplib
+                0x00002aee        0xe c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscB.o)
+                0x00002aee                __fp_pscB
+ .text.avr-libc.fplib
+                0x00002afc       0x22 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_round.o)
+                0x00002afc                __fp_round
+ .text.avr-libc.fplib
+                0x00002b1e       0x44 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_split3.o)
+                0x00002b1e                __fp_split3
+                0x00002b2e                __fp_splitA
+ .text.avr-libc.fplib
+                0x00002b62        0xe c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_zero.o)
+                0x00002b62                __fp_zero
+                0x00002b64                __fp_szero
+ .text.avr-libc.fplib
+                0x00002b70        0x4 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3.o)
+                0x00002b70                __mulsf3
+ .text.avr-libc.fplib
+                0x00002b74       0xc2 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3x.o)
+                0x00002b8c                __mulsf3_pse
+                0x00002b88                __mulsf3x
+ .text.avr-libc.fplib
+                0x00002c36       0x98 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(pow.o)
+                0x00002c36                pow
+ .text.avr-libc.fplib
+                0x00002cce       0x62 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exp.o)
+                0x00002cd8                exp
+ .text.avr-libc.fplib
+                0x00002d30       0x4a c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o)
+                0x00002d30                __fp_powser
+ .text.avr-libc.fplib
+                0x00002d7a        0xe c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(inverse.o)
+                0x00002d7a                inverse
+ .text.avr-libc.fplib
+                0x00002d88       0x6c c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ldexp.o)
+                0x00002d8c                ldexp
+ .text.avr-libc.fplib
+                0x00002df4       0x8a c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(log.o)
+                0x00002dfe                log
+ .text.avr-libc.fplib
+                0x00002e7e       0x66 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(modf.o)
+                0x00002e7e                modff
+                0x00002e7e                modf
+ .text.avr-libc.fplib
+                0x00002ee4       0x1c c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_mpack.o)
+                0x00002ee8                __fp_mpack_finite
+                0x00002ee4                __fp_mpack
+ .text.libgcc   0x00002f00       0x3e c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+                0x00002f00                __mulsi3
+ .text.libgcc   0x00002f3e       0x26 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+                0x00002f3e                __divmodhi4
+                0x00002f3e                _div
+ .text.libgcc   0x00002f64       0x44 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+                0x00002f64                __udivmodsi4
+ .text.libgcc   0x00002fa8        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00002fa8        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00002fa8       0x28 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                0x00002fa8                __udivmodhi4
+                0x00002fd0                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002fd0        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                0x00002fd0                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002fd0        0x4 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002fd4                _etext = .
+
+.data           0x00800100      0x28e load address 0x00002fd4
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .data          0x00800100        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .data          0x00800100        0x0 ./Source/ds18_h/ds18x20.o
+ .data          0x00800100        0x0 ./Source/1wire_h/crc8.o
+ .data          0x00800100        0x0 ./Source/1wire_h/onewire.o
+ .data          0x00800100        0x0 ./Source/adxl345_i2c.o
+ .data          0x00800100        0x0 ./Source/bmp280_i2c.o
+ .data          0x00800100        0x0 ./Source/i2c_avr.o
+ .data          0x00800100      0x280 ./Source/main.o
+ .data          0x00800380        0x0 ./Source/uart.o
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exit.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cmpsf2.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3x.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(floatsisf.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_cmp.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_inf.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_nan.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscA.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscB.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_round.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_split3.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_zero.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3x.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(pow.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exp.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(inverse.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ldexp.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(log.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(modf.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_mpack.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00800380        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ *(.data*)
+ .data.mystdout
+                0x00800380        0xe ./Source/main.o
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0080038e                . = ALIGN (0x2)
+                0x0080038e                _edata = .
+                0x0080038e                PROVIDE (__data_end, .)
+
+.bss            0x0080038e       0x31
+                0x0080038e                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x0080038e        0x0 ./Source/ds18_h/ds18x20.o
+ .bss           0x0080038e        0x0 ./Source/1wire_h/crc8.o
+ .bss           0x0080038e        0x0 ./Source/1wire_h/onewire.o
+ .bss           0x0080038e        0x0 ./Source/adxl345_i2c.o
+ .bss           0x0080038e        0x0 ./Source/bmp280_i2c.o
+ .bss           0x0080038e        0x0 ./Source/i2c_avr.o
+ .bss           0x0080038e        0x0 ./Source/main.o
+ .bss           0x0080038e        0x0 ./Source/uart.o
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exit.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(puts.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cmpsf2.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(divsf3x.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(floatsisf.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_cmp.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_inf.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_nan.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscA.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscB.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_round.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_split3.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_zero.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3x.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(pow.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(exp.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(inverse.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ldexp.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(log.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(modf.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_mpack.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x0080038e        0x0 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ *(.bss*)
+ .bss.BMP280_ErrData
+                0x0080038e        0x1 ./Source/bmp280_i2c.o
+                0x0080038e                BMP280_ErrData
+ .bss.time_ms   0x0080038f        0x4 ./Source/main.o
+                0x0080038f                time_ms
+ *(COMMON)
+ COMMON         0x00800393        0x1 ./Source/adxl345_i2c.o
+                0x00800393                ADXL345_dev_addr
+ COMMON         0x00800394       0x1d ./Source/bmp280_i2c.o
+                0x00800394                dig_P7
+                0x00800396                dig_T1
+                0x00800398                dig_T2
+                0x0080039a                dig_P2
+                0x0080039c                dig_P4
+                0x0080039e                BMP280_dev_addr
+                0x0080039f                dig_P5
+                0x008003a1                dig_P1
+                0x008003a3                dig_P3
+                0x008003a5                dig_P8
+                0x008003a7                dig_P9
+                0x008003a9                dig_T3
+                0x008003ab                dig_P6
+                0x008003ad                t_fine
+ COMMON         0x008003b1        0x8 ./Source/main.o
+                0x008003b1                gSensorIDs
+ COMMON         0x008003b9        0x6 c:/userprograms/forcubesat/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+                0x008003b9                __iob
+                0x008003bf                PROVIDE (__bss_end, .)
+                0x00002fd4                __data_load_start = LOADADDR (.data)
+                0x00003262                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008003bf        0x0
+                0x008003bf                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008003bf                PROVIDE (__noinit_end, .)
+                0x008003bf                _end = .
+                0x008003bf                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(sensors.elf elf32-avr)
+LOAD linker stubs

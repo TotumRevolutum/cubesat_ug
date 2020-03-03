@@ -9,6 +9,7 @@ RM := rm -rf
 # All of the sources participating in the build are defined here
 -include sources.mk
 -include Source/ds18_h/subdir.mk
+-include Source/MQ2/subdir.mk
 -include Source/1wire_h/subdir.mk
 -include Source/subdir.mk
 -include subdir.mk
@@ -33,56 +34,56 @@ endif
 
 # Add inputs and outputs from these tool invocations to the build variables 
 LSS += \
-CubeSat.lss \
+CubeSat_all.lss \
 
 FLASH_IMAGE += \
-CubeSat.hex \
+CubeSat_all.hex \
 
 EEPROM_IMAGE += \
-CubeSat.eep \
+CubeSat_all.eep \
 
 SIZEDUMMY += \
 sizedummy \
 
 
 # All Target
-all: CubeSat.elf secondary-outputs
+all: CubeSat_all.elf secondary-outputs
 
 # Tool invocations
-CubeSat.elf: $(OBJS) $(USER_OBJS)
+CubeSat_all.elf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: AVR C Linker'
-	avr-gcc -Wl,-Map,CubeSat.map -Wl,-u,vfprintf -lprintf_flt -lm -mmcu=atmega128 -o "CubeSat.elf" $(OBJS) $(USER_OBJS) $(LIBS)
+	avr-gcc -Wl,-Map,CubeSat_all.map -Wl,-u,vfprintf -lprintf_flt -lm -mmcu=atmega128 -o "CubeSat_all.elf" $(OBJS) $(USER_OBJS) $(LIBS) -lc
 	@echo 'Finished building target: $@'
 	@echo ' '
 
-CubeSat.lss: CubeSat.elf
+CubeSat_all.lss: CubeSat_all.elf
 	@echo 'Invoking: AVR Create Extended Listing'
-	-avr-objdump -h -S CubeSat.elf  >"CubeSat.lss"
+	-avr-objdump -h -S CubeSat_all.elf  >"CubeSat_all.lss"
 	@echo 'Finished building: $@'
 	@echo ' '
 
-CubeSat.hex: CubeSat.elf
+CubeSat_all.hex: CubeSat_all.elf
 	@echo 'Create Flash image (ihex format)'
-	-avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex CubeSat.elf  "CubeSat.hex"
+	-avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex CubeSat_all.elf  "CubeSat_all.hex"
 	@echo 'Finished building: $@'
 	@echo ' '
 
-CubeSat.eep: CubeSat.elf
+CubeSat_all.eep: CubeSat_all.elf
 	@echo 'Create eeprom image (ihex format)'
-	-avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex CubeSat.elf  "CubeSat.eep"
+	-avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex CubeSat_all.elf  "CubeSat_all.eep"
 	@echo 'Finished building: $@'
 	@echo ' '
 
-sizedummy: CubeSat.elf
+sizedummy: CubeSat_all.elf
 	@echo 'Invoking: Print Size'
-	-avr-size --format=avr --mcu=atmega128 CubeSat.elf
+	-avr-size --format=avr --mcu=atmega128 CubeSat_all.elf
 	@echo 'Finished building: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) $(FLASH_IMAGE)$(ELFS)$(OBJS)$(ASM_DEPS)$(EEPROM_IMAGE)$(S_DEPS)$(SIZEDUMMY)$(S_UPPER_DEPS)$(LSS)$(C_DEPS) CubeSat.elf
+	-$(RM) $(FLASH_IMAGE)$(ELFS)$(OBJS)$(ASM_DEPS)$(EEPROM_IMAGE)$(S_DEPS)$(SIZEDUMMY)$(S_UPPER_DEPS)$(LSS)$(C_DEPS) CubeSat_all.elf
 	-@echo ' '
 
 secondary-outputs: $(LSS) $(FLASH_IMAGE) $(EEPROM_IMAGE) $(SIZEDUMMY)

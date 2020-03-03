@@ -13,13 +13,8 @@
 #include "ds18_h/ds18x20.h"
 #include "sdcard_raw.h"
 #include <stdint.h>
+#include "DataTransmit.h"
 
-
-//#include "main.c"
-
-#define BAUD 9600L   //UART SPEED
-#define CHOSEN_SECTOR 0
-#define BUFFER_SIZE 28
 
 
 uint32_t time_ms = 0;
@@ -36,24 +31,6 @@ ISR (TIMER1_COMPA_vect)
 	time_ms++;
 }
 
-
-
-struct Data{
-	uint32_t packageNum;	// 32 bit = 4 bytes
-	uint32_t time;	//32 bit  = 4 bytes
-	int16_t x, y, z;	//raw 	16 * 3 bit  = 6 bytes
-	uint32_t temperature;	//32 = 4 bytes
-	uint32_t pressure;	//	32 = 4 bytes
-	uint16_t altitude;	//16 bit = 2 bytes
-	uint32_t temp_res;	//max res temperature	32 bit = 4 bytes
-	uint16_t crc; //16 bits - CRC = 2 bytes
-
-	uint16_t zero; // 16 bit = 2 bytes  - useless data
-	// 28 * 8 bit = 224 bit - Data
-	// 16 = 2 bytes - useless data
-	// SUM: 32 * 8 bits = 264 bits
-};
-
 /*
   Name  : CRC-16 CCITT
   Poly  : 0x1021    x^16 + x^12 + x^5 + 1
@@ -68,7 +45,6 @@ uint16_t Crc16(uint8_t *pcBlock, uint8_t len)
 {
     uint16_t crc = 0xFFFF;
     uint8_t i;
-
     while (len--)
     {
         crc ^= *pcBlock++ << 8;
@@ -80,7 +56,9 @@ uint16_t Crc16(uint8_t *pcBlock, uint8_t len)
 }
 
 void CreatePackage(struct Data * data, uint32_t *num, int x_raw, int y_raw, int z_raw,
-		int32_t temp, float press, float alt, int32_t temp_MXres){
+		int32_t temp, float press, float alt, int32_t temp_MXres,
+		uint16_t LPG, uint16_t Methane, uint16_t Smoke, uint16_t Hydrogen, uint16_t Propane,
+		uint16_t CO2, uint16_t OzoneL, uint16_t OzoneH){
 	(*num)++;
 	(*data).packageNum = (*num);
 	(*data).time = time_ms;
@@ -91,29 +69,26 @@ void CreatePackage(struct Data * data, uint32_t *num, int x_raw, int y_raw, int 
 	(*data).pressure = (uint32_t)(press  * 100);
 	(*data).altitude = (uint16_t) (alt + 10);
 	(*data).temp_res = (uint32_t)(temp_MXres + 1000000);
-	(*data).crc = Crc16(&data, BUFFER_SIZE);
+	(*data).LPG = LPG;
+	(*data).Methane = Methane;
+	(*data).Smoke = Smoke;
+	(*data).Hydrogen = Hydrogen;
+	(*data).Propane = Propane;
+	(*data).CO2 = CO2;
+	(*data).OzoneL = OzoneL;
+	(*data).OzoneH = OzoneH;
+	(*data).crc = Crc16(&data, DATA_LEN);
 
-	(*data).zero = 0;
-
-
-	/*(*data).packageNum = 1;
-	(*data).time = 100;
-	(*data).x = 111;
-	(*data).y = 222;
-	(*data).z = 333;
-	(*data).temperature = 123;
-	(*data).pressure = 513;
-	(*data).altitude = 404;
-	(*data).temp_res = 342;
-	(*data).crc = 253;*/
+	(*data).zero[0] = 0;	(*data).zero[1] = 0;
+	(*data).zero[2] = 0;	(*data).zero[3] = 0;
 }
 
 
 DRESULT WriteSD(struct Data *data, uint32_t n){
-	DRESULT dres = disk_write_continue(data, BUFFER_SIZE+4);
-	if (n % 16 == 0){
+	DRESULT dres = disk_write_continue(data, BUFFER_SIZE);
+	if (n % COUNT_IN_512 == 0){
 		disk_write_stop();
-		disk_write_start(n/16*512);
+		disk_write_start(n/COUNT_IN_512*512);
 	}
 	return dres;
 }
@@ -121,6 +96,6 @@ DRESULT WriteSD(struct Data *data, uint32_t n){
 
 void Transmit (struct Data *data)
 {
-	USART_SendByteArray(data, BUFFER_SIZE+2);
+	USART_SendByteArray(data, BUFFER_SIZE);
 }
 
